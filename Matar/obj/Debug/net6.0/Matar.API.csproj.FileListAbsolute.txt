@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\Matar\Matar\obj\Debug\net6.0\Matar.API.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Matar\Matar\obj\Debug\net6.0\Matar.API.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Matar\Matar\obj\Debug\net6.0\Matar.API.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Matar\Matar\obj\Debug\net6.0\Matar.API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Matar\Matar\obj\Debug\net6.0\Matar.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\Matar\Matar\obj\Debug\net6.0\Matar.API.MvcApplicationPartsAssemblyInfo.cs

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\obj\Debug\net6.0\Matar.Data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\obj\Debug\net6.0\Matar.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\obj\Debug\net6.0\Matar.Data.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\obj\Debug\net6.0\Matar.Data.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\obj\Debug\net6.0\Matar.Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\bin\Debug\net6.0\Matar.Data.deps.json
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\bin\Debug\net6.0\Matar.Data.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\bin\Debug\net6.0\Matar.Data.dll
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\bin\Debug\net6.0\Matar.Data.pdb
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\obj\Debug\net6.0\Matar.Data.dll
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\obj\Debug\net6.0\refint\Matar.Data.dll
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\obj\Debug\net6.0\Matar.Data.pdb
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\obj\Debug\net6.0\Matar.Data.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Matar\Mata.Data\obj\Debug\net6.0\ref\Matar.Data.dll
